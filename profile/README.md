@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to the **Blockchain Forensics Institute** GitHub repository!
+Welcome to the **Block Hive** GitHub repository!
 
 🙋‍♀️ **About Us:** We are dedicated to advancing the field of blockchain forensics by developing tools, techniques, and educational resources to enhance the security and transparency of digital transactions and assets. Our mission is to foster innovation, collaboration, and education in blockchain forensics.
 
